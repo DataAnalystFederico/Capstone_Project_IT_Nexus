@@ -1,6 +1,8 @@
 # Capstone_Project_IT_Nexus 
 This repository contains the Capstone Project "IT Nexus: Bridging Technologies &amp; Workforce Dynamics", focusing on data analysis and visualization in the IT sector.
+
 # IT Nexus: Bridging Technologies & Workforce Dynamics
+**Quick Start**: Begin with the [PowerPoint presentation (PDF)](./FedericoCalarco_IT_Nexus_Report(PowerPoint).pdf) for a concise overview of the project, its objectives, and key findings.  
 **Author**: Federico Calarco
 
 ## Project Overview:
