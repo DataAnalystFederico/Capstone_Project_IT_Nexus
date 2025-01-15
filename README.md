@@ -21,5 +21,8 @@ This project explores the current and future trends in IT technologies and their
 
 ## Files:
 The project includes Python scripts for data analysis, SQL queries, visualizations, and the Power BI dashboard, available within the repository.
+ 
+## **Explore More**  
+For the full project details, explore the repository contents.  
 
-## For the full project, view the contents in the folder.
+Thank you for reviewing my work! Feel free to reach out for any questions or feedback.  
